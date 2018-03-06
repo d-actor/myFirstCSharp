@@ -1,0 +1,10 @@
+/Users/danielactor/Desktop/Projects/CSharpWebCourses/codeschoolC#basics/bin/Debug/netcoreapp2.0/codeschoolC#basics.deps.json
+/Users/danielactor/Desktop/Projects/CSharpWebCourses/codeschoolC#basics/bin/Debug/netcoreapp2.0/codeschoolC#basics.runtimeconfig.json
+/Users/danielactor/Desktop/Projects/CSharpWebCourses/codeschoolC#basics/bin/Debug/netcoreapp2.0/codeschoolC#basics.runtimeconfig.dev.json
+/Users/danielactor/Desktop/Projects/CSharpWebCourses/codeschoolC#basics/bin/Debug/netcoreapp2.0/codeschoolC#basics.dll
+/Users/danielactor/Desktop/Projects/CSharpWebCourses/codeschoolC#basics/bin/Debug/netcoreapp2.0/codeschoolC#basics.pdb
+/Users/danielactor/Desktop/Projects/CSharpWebCourses/codeschoolC#basics/obj/Debug/netcoreapp2.0/codeschoolC#basics.csproj.CoreCompileInputs.cache
+/Users/danielactor/Desktop/Projects/CSharpWebCourses/codeschoolC#basics/obj/Debug/netcoreapp2.0/codeschoolC#basics.AssemblyInfoInputs.cache
+/Users/danielactor/Desktop/Projects/CSharpWebCourses/codeschoolC#basics/obj/Debug/netcoreapp2.0/codeschoolC#basics.AssemblyInfo.cs
+/Users/danielactor/Desktop/Projects/CSharpWebCourses/codeschoolC#basics/obj/Debug/netcoreapp2.0/codeschoolC#basics.dll
+/Users/danielactor/Desktop/Projects/CSharpWebCourses/codeschoolC#basics/obj/Debug/netcoreapp2.0/codeschoolC#basics.pdb
